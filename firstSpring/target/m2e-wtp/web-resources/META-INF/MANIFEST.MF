@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: ￪ﾰﾜ￫ﾰﾜ2￭ﾌﾀ_￪ﾹﾀ￪ﾸﾰ￬ﾚﾱ
+Built-By: blaze
 Build-Jdk: 11.0.2
 Created-By: Maven Integration for Eclipse
 
